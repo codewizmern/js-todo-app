@@ -1,1 +1,1 @@
-# todo-app
+# js-todo-app
